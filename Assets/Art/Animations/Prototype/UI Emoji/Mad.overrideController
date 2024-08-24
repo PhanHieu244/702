@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Mad
+  m_Controller: {fileID: 9100000, guid: c3f2e1f2c09f68f419db7ec4a369ff3f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: d395f5d99ec8abc468128070b9e9b394, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 778ab1f8a247b434e9534164580bf474, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7d23eb80d23ab354aa7c669e6e1a50dc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7d23eb80d23ab354aa7c669e6e1a50dc, type: 2}
